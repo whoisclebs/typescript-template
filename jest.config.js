@@ -5,6 +5,7 @@ module.exports = {
     '!<rootDir>/src/main/**'
   ],
   testEnvironment: 'node',
+  coverageProvider: 'babel',
   transform: {
     '.+\\.ts$': 'ts-jest'
   },
