@@ -15,7 +15,7 @@
     "commit:lint": "commitlint --edit"
   },
   "keywords": [
-    "math"
+    "typescript"
   ],
   "author": "",
   "license": "MIT",
